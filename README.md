@@ -1,4 +1,4 @@
-# bitino
+
 Debian GNU/Linux system copyright.
 API ID: 7207914e27786a4b73dad9aa055628aa
 Verification Code = [ ******************** ]
